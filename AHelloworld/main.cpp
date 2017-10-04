@@ -7,9 +7,15 @@
 //
 
 #include <iostream>
+#include<string>
+
+
 
 int main(int argc, const char * argv[]) {
     // insert code here...
+    std::string a("Hello,world");
+    std::cout<<a<<std::endl;
     std::cout << "Hello, World!\n";
+
     return 0;
 }
