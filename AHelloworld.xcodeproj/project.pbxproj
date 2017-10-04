@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2B0D70231F84F91A00803D64 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 		2B1D90821F84EEB500F926AA /* AHelloworld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AHelloworld; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B1D90851F84EEB500F926AA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				2B1D90851F84EEB500F926AA /* main.cpp */,
+				2B0D70231F84F91A00803D64 /* Header.h */,
 			);
 			path = AHelloworld;
 			sourceTree = "<group>";
